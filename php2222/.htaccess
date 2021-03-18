@@ -1,0 +1,12 @@
+ #RewriteEngine on
+
+ #RewriteRule ^index$ index.php
+ #AddType application/xhttpd .htm .html
+
+# show-up when file delected or does not exist
+
+#ErrorDocument 404 /404.php
+
+# prevent files to show up --directories--
+
+#IndexIngore *

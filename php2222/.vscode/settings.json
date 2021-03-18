@@ -1,0 +1,7 @@
+{
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.withNodeModules": true,
+    "window.autoDetectColorScheme": true,
+    "problems.showCurrentInStatus": true
+}
